@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**Morfig4/Morfig4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá! Sou o Ryan Mora Bonfim 🤠
 
-Here are some ideas to get you started:
+[![Linkedln](    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ryan-mora-bonfim)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eu.mesmo.ryan?igsh=MW5vdmU1OTU0MmRxMQ%3D%3D&utm_source=qr)
+[![Whats](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://w.app/DevRyan)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Morfig4's GitHub stats](https://github-readme-stats.vercel.app/api?username=Morfig4&show_icons=true&theme=dracula)
+
+## Tecnologias que eu uso no meu dia
+
+<div style="display:inline_block">
+    <img align="center" alt="c/c++" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+     <img align="center" alt="c/c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+      <img align="center" alt="c/c++" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img align="center" alt="c/c++" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+       <img align="center" alt="c/c++" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+        <img align="center" alt="c/c++" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+         <img align="center" alt="c/c++" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+          <img align="center" alt="c/c++" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+          <img align="center" alt="c/c++" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+          <img align="center" alt="c/c++" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+          <img align="center" alt="c/c++" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+         
+          
+</div><br/>
+
+Um estudante de Análise e Desenvolvimento de Sistemas na UCDB e um entusiasta da tecnologia.
