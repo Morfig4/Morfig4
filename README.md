@@ -1,7 +1,7 @@
 
 ### Olá! Sou o Ryan Mora Bonfim 🤠
 
-[![Linkedln](    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ryan-mora-bonfim)
+[![Linkedln](    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ryan-mora-bonfim/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eu.mesmo.ryan?igsh=MW5vdmU1OTU0MmRxMQ%3D%3D&utm_source=qr)
 [![Whats](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://w.app/DevRyan)
 
